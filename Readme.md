@@ -1,5 +1,4 @@
 Problem Statement:
-
 	You are a cloud architect tasked with designing a secure and efficient Virtual Private
 	Cloud (VPC) for a rapidly growing e-commerce platform. The platform currently
 	operates in a single region but plans to expand to multiple regions in the future to

@@ -13,15 +13,15 @@ They might require different types of connectivity. Implement the following to f
 # Step-by-Step: VPC + Public + Private + NAT Gateway
 -----------------------------
 ## 🔹 Step 1: Create VPC
-Go to AWS Console
-Search → VPC
+- Go to AWS Console
+- Search → VPC
 <img width="1577" height="558" alt="image" src="https://github.com/user-attachments/assets/aa8ebc26-c4f0-479d-bbf7-d53e7bd812ec" />
-Click → Create VPC
+- Click → Create VPC
 <img width="1473" height="588" alt="image" src="https://github.com/user-attachments/assets/82a61ae2-23dc-48c0-b079-b966af3a0423" />
-Select:
+- Select:
 ✅ VPC only
 <img width="1487" height="436" alt="image" src="https://github.com/user-attachments/assets/7ae61848-03ba-465d-8b21-909fdf2a510c" />
-Fill details:
+- Fill details:
 Name: my-vpc
 CIDR: 120.0.0.0/16
 Click → Create VPC
